@@ -1,0 +1,5 @@
+Generated on 2026-10-06 using the built-in image_gen tool (not CLI).
+Saved asset: DustDemo/Assets.xcassets/GeneratedArtwork.imageset/floating-cabin.png
+Transparent background: false
+
+Use case: stylized-concept. Asset type: a square test image for an iOS text-to-image particle morph demo. Primary request: a tiny cozy orange cabin on a small floating grassy island above a sea of clouds, with a single round green tree, a winding stone path, and distant peach-colored mountains. Style/medium: beautiful tactile miniature 3D illustration, soft matte clay and paper textures, refined cinematic lighting. Composition/framing: square 1:1 image, entire island clearly visible and centered with breathing room, cabin at the center, a coherent scene that reads clearly at 300pt on a phone. Lighting/mood: golden sunrise, calm and dreamlike. Color palette: pale turquoise sky, cream clouds, terracotta cabin, soft green foliage. Constraints: no text, no letters, no watermark, no UI or device frame, opaque background.
